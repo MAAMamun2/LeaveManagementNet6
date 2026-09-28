@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeaveManagement.WebV2.props" />
+</Project>
